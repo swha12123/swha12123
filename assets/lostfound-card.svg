@@ -47,7 +47,7 @@
       <tspan dy="1.2em" x="25">(Spring Boot 기반)</tspan>
     </text>
 
-    <g transform="translate(30, 105)">
+    <g transform="translate(30, 50)">
       <g transform="translate(0, 0)">
         <circle cx="0" cy="-5" r="6" fill="#b07219" />
         <text class="gray" x="15">Java</text>
