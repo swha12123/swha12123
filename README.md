@@ -6,8 +6,6 @@
 <img src="https://github-stats-extended.vercel.app/api?username=swha12123&show_icons=true&theme=dark&hide_border=true" alt="swha12123 GitHub stats" height="195" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=swha12123&layout=compact&theme=dark&hide_border=true" alt="swha12123 top languages" height="195" />
 
-<img src="https://komarev.com/ghpvc/?username=swha12123&color=ff2079&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views counter" />
-
 </div>
 
 ### 학력
