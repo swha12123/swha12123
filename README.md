@@ -31,14 +31,12 @@
 
 </div>
 
-### 활동 (추후 연동 예정)
-
-> 아래는 실제 커밋 데이터가 아닌 예시 이미지입니다. 커밋 이력이 쌓인 뒤 실제 계정으로 연동할 예정입니다.
+### 활동
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="commit snake animation example (placeholder, not connected to a real account yet)" width="100%" />
+<img src="https://raw.githubusercontent.com/swha12123/swha12123/output/github-contribution-grid-snake-dark.svg" alt="swha12123 commit snake animation" width="100%" />
 
-<img src="https://streak-stats.demolab.com/?user=octocat&theme=dark&hide_border=true" alt="commit streak stats example (placeholder, not connected to a real account yet)" />
+<img src="https://streak-stats.demolab.com/?user=swha12123&theme=dark&hide_border=true" alt="swha12123 commit streak stats" />
 
 </div>
