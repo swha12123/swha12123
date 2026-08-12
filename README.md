@@ -8,8 +8,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=swha12123&color=ff2079&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views counter" />
 
-<img src="https://github-trophies.vercel.app/?username=swha12123&theme=dracula&no-frame=true&row=1&column=6" alt="swha12123 GitHub trophies" />
-
 </div>
 
 ### 학력
