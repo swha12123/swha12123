@@ -7,27 +7,19 @@
 
 </div>
 
-<h3 style="margin-left: 12px">학력</h3>
-
-<div style="margin-left: 12px">
+### &nbsp;&nbsp;학력
 
 - 중앙대학교 소프트웨어학부 (2026~) 재학 중
 - 전적대: 한국외대 글로벌캠퍼스 컴퓨터공학부 (2022~2024) 중퇴
 
-</div>
-
-<h3 style="margin-left: 12px">소개</h3>
-
-<div style="margin-left: 12px">
+### &nbsp;&nbsp;소개
 
 - 공군 정보보호병 856기 전역 (2025.12)
 - 정처기/정통기/빅분기 보유
 - swha0202@cau.ac.kr
 - [swha2001.tistory.com](https://swha2001.tistory.com)
 
-</div>
-
-<h3 style="margin-left: 12px">기술 스택</h3>
+### &nbsp;&nbsp;기술 스택
 
 <div align="center">
 
@@ -42,7 +34,7 @@
 
 </div>
 
-<h3 style="margin-left: 12px">프로젝트</h3>
+### &nbsp;&nbsp;프로젝트
 
 <div align="center">
 
@@ -51,7 +43,7 @@
 
 </div>
 
-<h3 style="margin-left: 12px">활동</h3>
+### &nbsp;&nbsp;활동
 
 <div align="center">
 
