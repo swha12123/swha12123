@@ -21,7 +21,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: conf/github-profile-3d-contrib.json
+          SETTING_JSON: conf/github-profile-3d-contrib-light.json
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: conf/github-profile-3d-contrib-dark.json
       - name: Commit & Push
         run: |
           git config user.name github-actions

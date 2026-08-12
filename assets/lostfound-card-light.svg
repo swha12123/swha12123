@@ -10,23 +10,12 @@
   <title id="titleId">lostfound</title>
   <desc id="descId">캠퍼스 분실물 통합 게시판 (Spring Boot 기반)</desc>
   <style>
-    /* 보는 사람의 테마에 맞춰 색이 바뀌도록 기본은 라이트, 어두운 테마일 때만 덮어쓴다.
-       (한쪽 테마 색을 고정으로 박아두면 반대 테마에서 카드만 검은 상자처럼 튄다.) */
     .bg     { fill: #ffffff; }
     .border { stroke: #d0d7de; }
     .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #1f2328; }
     .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #59636e; }
     .gray   { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #59636e; }
     .icon   { fill: #59636e; }
-
-    @media (prefers-color-scheme: dark) {
-      .bg     { fill: #151515; }
-      .border { stroke: #30363d; }
-      .header { fill: #ffffff; }
-      .description { fill: #9f9f9f; }
-      .gray   { fill: #9f9f9f; }
-      .icon   { fill: #8b949e; }
-    }
   </style>
 
   <rect class="bg border" x="0.5" y="0.5" rx="4.5" height="99%" width="399" />

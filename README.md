@@ -47,9 +47,14 @@
 
 <div align="center">
 
-<!-- 이 두 장은 직접 그린 SVG로, 파일 안에 테마 전환 규칙이 들어 있어 한 장으로 양쪽을 담당한다. -->
-<img src="https://raw.githubusercontent.com/swha12123/swha12123/main/assets/lostfound-card.svg?v=3" alt="swha12123/lostfound repo card" />
-<img src="https://raw.githubusercontent.com/swha12123/swha12123/main/assets/bus-driver-ledger-card.svg?v=3" alt="swha12123/bus-driver-ledger repo card (private)" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swha12123/swha12123/main/assets/lostfound-card-dark.svg?v=1">
+  <img src="https://raw.githubusercontent.com/swha12123/swha12123/main/assets/lostfound-card-light.svg?v=1" alt="swha12123/lostfound repo card" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swha12123/swha12123/main/assets/bus-driver-ledger-card-dark.svg?v=1">
+  <img src="https://raw.githubusercontent.com/swha12123/swha12123/main/assets/bus-driver-ledger-card-light.svg?v=1" alt="swha12123/bus-driver-ledger repo card (private)" />
+</picture>
 
 </div>
 
@@ -57,8 +62,10 @@
 
 <div align="center">
 
-<!-- 3D 잔디도 SVG 안에 테마 전환 규칙이 들어 있어 한 장으로 양쪽을 담당한다. -->
-<img src="https://raw.githubusercontent.com/swha12123/swha12123/main/profile-3d-contrib/profile-3d-contrib.svg?v=2" alt="swha12123 3D contribution calendar" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swha12123/swha12123/main/profile-3d-contrib/profile-3d-contrib-dark.svg?v=1">
+  <img src="https://raw.githubusercontent.com/swha12123/swha12123/main/profile-3d-contrib/profile-3d-contrib-light.svg?v=1" alt="swha12123 3D contribution calendar" width="100%" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=swha12123&theme=github-compact&hide_border=true&area=true">

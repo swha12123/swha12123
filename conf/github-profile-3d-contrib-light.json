@@ -1,0 +1,22 @@
+[
+    {
+        "type": "rainbow",
+        "fileName": "profile-3d-contrib-light.svg",
+        "backgroundColor": "#ffffff",
+        "foregroundColor": "#1f2328",
+        "strongColor": "#0969da",
+        "weakColor": "#59636e",
+        "radarColor": "#0969da",
+        "growingAnimation": true,
+        "saturation": "60%",
+        "contribLightness": [
+            "88%",
+            "72%",
+            "62%",
+            "52%",
+            "42%"
+        ],
+        "duration": "10s",
+        "hueRatio": -7
+    }
+]
