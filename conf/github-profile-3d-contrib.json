@@ -5,18 +5,18 @@
         "backgroundColor": "#0d1117",
         "foregroundColor": "#e6edf3",
         "strongColor": "#8ec5fc",
-        "weakColor": "#30363d",
+        "weakColor": "#aaaaaa",
         "radarColor": "#8ec5fc",
         "growingAnimation": true,
-        "saturation": "70%",
+        "saturation": "50%",
         "contribLightness": [
-            "25%",
+            "20%",
+            "30%",
             "35%",
-            "45%",
-            "55%",
-            "65%"
+            "40%",
+            "50%"
         ],
-        "duration": "6s",
-        "hueRatio": 12
+        "duration": "10s",
+        "hueRatio": -7
     }
 ]

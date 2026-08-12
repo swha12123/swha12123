@@ -40,6 +40,15 @@
 
 <img src="https://github-readme-stats-eight-flax.vercel.app/api/pin/?username=swha12123&repo=lostfound&theme=dark&hide_border=true" alt="swha12123/lostfound repo card" />
 
+<table>
+<tr><td>
+
+**bus-driver-ledger** 🔒 <sub>(private)</sub><br/>
+버스기사 운행일보 수당달력 - OCR/AI 기반 수당 기록·결산 앱 (Capacitor)
+
+</td></tr>
+</table>
+
 </div>
 
 ### 활동
