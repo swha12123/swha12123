@@ -8,28 +8,29 @@
   aria-labelledby="titleId descId"
 >
   <title id="titleId">bus-driver-ledger</title>
-  <desc id="descId">Private repository: 버스기사 운행일보 수당달력, OCR/AI 기반 수당 기록결산 앱, Capacitor</desc>
+  <desc id="descId">비공개 저장소: 버스기사 운행일보 수당달력 (OCR/AI 기반, Capacitor)</desc>
   <style>
-    .header {
-      font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-      fill: #fff;
+    /* 보는 사람의 테마에 맞춰 색이 바뀌도록 기본은 라이트, 어두운 테마일 때만 덮어쓴다. */
+    .bg     { fill: #ffffff; }
+    .border { stroke: #d0d7de; }
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #1f2328; }
+    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #59636e; }
+    .gray   { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #59636e; }
+    .icon   { fill: #59636e; }
+    .lock-icon { fill: #9a6700; }
+
+    @media (prefers-color-scheme: dark) {
+      .bg     { fill: #151515; }
+      .border { stroke: #30363d; }
+      .header { fill: #ffffff; }
+      .description { fill: #9f9f9f; }
+      .gray   { fill: #9f9f9f; }
+      .icon   { fill: #8b949e; }
+      .lock-icon { fill: #d4a72c; }
     }
-    .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f }
-    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f }
-    .icon { fill: #8b949e }
-    .lock-icon { fill: #d4a72c }
   </style>
 
-  <rect
-    x="0.5"
-    y="0.5"
-    rx="4.5"
-    height="99%"
-    width="399"
-    fill="#151515"
-    stroke="#e4e2e2"
-    stroke-opacity="0"
-  />
+  <rect class="bg border" x="0.5" y="0.5" rx="4.5" height="99%" width="399" />
 
   <g transform="translate(25, 35)">
     <g transform="translate(0, 0)">
