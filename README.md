@@ -2,8 +2,8 @@
 <!-- 섹션 순서: GitHub 통계 카드 → 학력 → 소개 → 기술스택 → 프로젝트 → 활동 -->
 
 <div align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=swha12123&show_icons=true&theme=dark&hide_border=true" alt="swha12123 GitHub stats" height="195" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=swha12123&layout=compact&theme=dark&hide_border=true" alt="swha12123 top languages" height="195" />
+<img src="https://github-readme-stats-eight-flax.vercel.app/api?username=swha12123&show_icons=true&theme=dark&hide_border=true" alt="swha12123 GitHub stats" height="195" />
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/top-langs?username=swha12123&layout=compact&theme=dark&hide_border=true" alt="swha12123 top languages" height="195" />
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=swha12123&repo=lostfound&theme=dark&hide_border=true" alt="swha12123/lostfound repo card" />
+<img src="https://github-readme-stats-eight-flax.vercel.app/api/pin/?username=swha12123&repo=lostfound&theme=dark&hide_border=true" alt="swha12123/lostfound repo card" />
 
 </div>
 
@@ -46,7 +46,11 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/swha12123/swha12123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="swha12123 3D contribution calendar" width="100%" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=swha12123&theme=radical&hide_border=true&area=true" alt="swha12123 commit activity graph" width="100%" />
+
+<img src="https://raw.githubusercontent.com/swha12123/swha12123/output/github-contribution-grid-snake-dark.svg" alt="swha12123 commit snake animation" width="100%" />
 
 <img src="https://streak-stats.demolab.com/?user=swha12123&theme=dark&hide_border=true" alt="swha12123 commit streak stats" />
 
