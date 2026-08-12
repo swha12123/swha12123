@@ -1,5 +1,5 @@
 <!-- GitHub 프로필 README (연습용) -->
-<!-- 섹션 순서: GitHub 통계 카드 → 학력 → 소개 → 기술스택 → 스네이크/스트릭 -->
+<!-- 섹션 순서: GitHub 통계 카드 → 학력 → 소개 → 기술스택 → 프로젝트 → 활동 -->
 
 <div align="center">
 
@@ -7,6 +7,8 @@
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=swha12123&layout=compact&theme=dark&hide_border=true" alt="swha12123 top languages" height="195" />
 
 <img src="https://komarev.com/ghpvc/?username=swha12123&color=ff2079&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views counter" />
+
+<img src="https://github-trophies.vercel.app/?username=swha12123&theme=dracula&no-frame=true&row=1&column=6" alt="swha12123 GitHub trophies" />
 
 </div>
 
@@ -34,6 +36,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</div>
+
+### 프로젝트
+
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=swha12123&repo=lostfound&theme=dark&hide_border=true" alt="swha12123/lostfound repo card" />
 
 </div>
 
