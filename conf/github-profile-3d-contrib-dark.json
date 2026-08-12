@@ -2,7 +2,7 @@
     {
         "type": "rainbow",
         "fileName": "profile-3d-contrib-dark.svg",
-        "backgroundColor": "#0d1117",
+        "backgroundColor": "#000000",
         "foregroundColor": "#e6edf3",
         "strongColor": "#8ec5fc",
         "weakColor": "#aaaaaa",

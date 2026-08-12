@@ -10,7 +10,7 @@
   <title id="titleId">lostfound</title>
   <desc id="descId">캠퍼스 분실물 통합 게시판 (Spring Boot 기반)</desc>
   <style>
-    .bg     { fill: #151515; }
+    .bg     { fill: #000000; }
     .border { stroke: #30363d; }
     .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
     .description { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f; }
