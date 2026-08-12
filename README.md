@@ -38,8 +38,8 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/swha12123/swha12123/main/assets/lostfound-card.svg" alt="swha12123/lostfound repo card" />
-<img src="https://raw.githubusercontent.com/swha12123/swha12123/main/assets/bus-driver-ledger-card.svg" alt="swha12123/bus-driver-ledger repo card (private)" />
+<img src="https://raw.githubusercontent.com/swha12123/swha12123/main/assets/lostfound-card.svg?v=2" alt="swha12123/lostfound repo card" />
+<img src="https://raw.githubusercontent.com/swha12123/swha12123/main/assets/bus-driver-ledger-card.svg?v=2" alt="swha12123/bus-driver-ledger repo card (private)" />
 
 </div>
 
