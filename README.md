@@ -3,7 +3,8 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=swha12123&show_icons=true&theme=dark&hide_border=true" alt="swha12123 GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=swha12123&show_icons=true&theme=dark&hide_border=true" alt="swha12123 GitHub stats" height="195" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=swha12123&layout=compact&theme=dark&hide_border=true" alt="swha12123 top languages" height="195" />
 
 </div>
 
