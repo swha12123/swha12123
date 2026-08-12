@@ -46,7 +46,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/swha12123/swha12123/main/profile-3d-contrib/profile-night-rainbow.svg" alt="swha12123 3D contribution calendar" width="100%" />
+<img src="https://raw.githubusercontent.com/swha12123/swha12123/main/profile-3d-contrib/profile-3d-contrib.svg" alt="swha12123 3D contribution calendar" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=swha12123&theme=radical&hide_border=true&area=true" alt="swha12123 commit activity graph" width="100%" />
 
