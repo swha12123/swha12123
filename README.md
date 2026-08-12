@@ -2,7 +2,6 @@
 <!-- 섹션 순서: GitHub 통계 카드 → 학력 → 소개 → 기술스택 → 프로젝트 → 활동 -->
 
 <div align="center">
-
 <img src="https://github-stats-extended.vercel.app/api?username=swha12123&show_icons=true&theme=dark&hide_border=true" alt="swha12123 GitHub stats" height="195" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=swha12123&layout=compact&theme=dark&hide_border=true" alt="swha12123 top languages" height="195" />
 
