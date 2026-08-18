@@ -77,9 +77,4 @@
   <img src="https://raw.githubusercontent.com/swha12123/swha12123/output/github-contribution-grid-snake.svg" alt="swha12123 commit snake animation" width="100%" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=swha12123&theme=dark&hide_border=true">
-  <img src="https://streak-stats.demolab.com/?user=swha12123&theme=default&hide_border=true" alt="swha12123 commit streak stats" />
-</picture>
-
 </div>
